@@ -1,0 +1,10 @@
+D:\C++_Proj\Life\Life\x64\Debug\Life.vcxproj.AssemblyReference.cache
+D:\C++_Proj\Life\Life\x64\Debug\Life.AdminLoginForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.vcxproj.GenerateResource.cache
+D:\C++_Proj\Life\Life\x64\Debug\Life.LifeForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.AdminWorForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.AdminUpdateForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.AdminDeleteForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.StartForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.UserLoginForm.resources
+D:\C++_Proj\Life\Life\x64\Debug\Life.UserRegisterForm.resources

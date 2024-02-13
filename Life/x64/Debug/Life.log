@@ -1,0 +1,31 @@
+﻿  StartForm.cpp
+D:\C++_Proj\Life\Life\MedCardClass.h(70): warning C4715: MedCard::GetIdByName: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedCardClass.h(110): warning C4715: MedCard::GetIdByNkl: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedCardClass.h(146): warning C4715: MedCard::GetFIO: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedCardClass.h(182): warning C4715: MedCard::GetNKL: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedCardClass.h(218): warning C4715: MedCard::GetTIME: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedPlcClass.h(71): warning C4715: MedPlc::GetIdByTYPE: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedPlcClass.h(112): warning C4715: MedPlc::GetIdByNm: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedPlcClass.h(153): warning C4715: MedPlc::GetIdByADRES: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedPlcClass.h(189): warning C4715: MedPlc::GetTYPE: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedPlcClass.h(225): warning C4715: MedPlc::GetNM: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\MedPlcClass.h(261): warning C4715: MedPlc::GetADRES: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\UserClass.h(72): warning C4715: User::GetIdByLogin: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\UserClass.h(108): warning C4715: User::GetLOGIN: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\UserClass.h(144): warning C4715: User::GetPASSWORD: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\UserRegisterClass.h(54): warning C4715: UserRegister::LastIdUsers: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminClass.h(72): warning C4715: Admin::GetIdByKey: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminClass.h(108): warning C4715: Admin::GetLOGIN: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminClass.h(144): warning C4715: Admin::GetPASSWORD: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminClass.h(180): warning C4715: Admin::GetKEY: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminWorkClass.h(54): warning C4715: AdminWork::LastIdMedWorTable: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminWorkClass.h(89): warning C4715: AdminWork::LastIdMedPlcTable: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminWorkClass.h(124): warning C4715: AdminWork::LastIdAdmins: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminUpdateClass.h(63): warning C4715: AdminUpdate::GetIdByName: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminUpdateClass.h(106): warning C4715: AdminUpdate::GetIdByKey: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminUpdateClass.h(149): warning C4715: AdminUpdate::GetIdByNM: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminDeleteClass.h(63): warning C4715: AdminDelete::GetIdByName: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminDeleteClass.h(106): warning C4715: AdminDelete::GetIdByKey: значение возвращается не при всех путях выполнения
+D:\C++_Proj\Life\Life\AdminDeleteClass.h(149): warning C4715: AdminDelete::GetIdByNM: значение возвращается не при всех путях выполнения
+  StartForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Life.vcxproj -> D:\C++_Proj\Life\x64\Debug\Life.exe
